@@ -5,13 +5,11 @@
     <thead>
         <tr>
             <th align="center">
-                <img width="20" height="1"> 
                 <p>
                     <small>#</small>
                 </p>
             </th>
             <th align="center">
-                <img width="300" height="1"> 
                 <p> 
                     <small>
                         PROJETO
@@ -19,7 +17,6 @@
                 </p>
             </th>
             <th align="center">
-                <img width="201" height="1">
                 <p align="center"> 
                     <small>
                     PREVIEW
