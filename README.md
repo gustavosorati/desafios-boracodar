@@ -28,9 +28,9 @@
     <tbody>
         <tr>
             <td>01</td>
-            <td><a href="https://github.com/gustavosorati/rocketseat-boracodar/bora-codar-02">Product Card</a></td>
+            <td><a href="https://github.com/gustavosorati/rocketseat-boracodar/tree/main/bora-codar-02">Product Card</a></td>
             <td align="center">
-            <a href="https://github.com/gustavosorati/rocketseat-boracodar/bora-codar-02"><img width="300px" src="./bora-codar-02/_docs/capa.jpg" /></a></td>
+            <a href="https://github.com/gustavosorati/rocketseat-boracodar/tree/main/bora-codar-02"><img width="300px" src="./bora-codar-02/_docs/capa.jpg" /></a></td>
         </tr>
     </tbody>
 </table></p>
