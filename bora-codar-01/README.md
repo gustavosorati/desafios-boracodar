@@ -8,19 +8,15 @@ Resolução do 1° desafio proposto pela **rocketseat**, durante a iniciativa **
 
 ## O Desafio
 
-O Desafio consiste em reproduzir o layout do projeto, e através de uma gif uma ``.gif`` realizar uma animação do produto se movimentando.
-
-## O Desafio
-
-O Desafio consiste em reproduzir o layout do projeto, e através de uma gif uma ``.gif`` realizar uma animação do produto se movimentando.
+O Desafio consiste em desenvolver um mp3 player  para escutar músicas.
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido visando aprender Vue 3.
+Esse projeto foi desenvolvido visando aprender Vue 3, então utilizei apenas Vue 3.
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/ZDEDUfRx9SzJ3MQmP0VBEn/%23boraCodar---Desafio-2-(Community)?node-id=1-133&t=jnO4LKCPo4wDDZG9-0). É necessário ter conta no Figma para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/RPfBJtFAqGR7Q69G9Yb0MJ/%23boraCodar---Desafio-1?node-id=0-1&t=CbLIxxuc1N5BU3cR-0). É necessário ter conta no Figma para acessá-lo.
 
 ---
 
