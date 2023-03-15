@@ -30,7 +30,7 @@
             <td>01</td>
             <td><a href="https://github.com/gustavosorati/rocketseat-boracodar/tree/main/bora-codar-01">MP3 Player</a></td>
             <td align="center">
-            <a href="https://github.com/gustavosorati/rocketseat-boracodar/tree/main/bora-codar-01"><img   src="./bora-codar-01/_docs/capa.jpg" /></a></td>
+            <a href="https://github.com/gustavosorati/rocketseat-boracodar/tree/main/bora-codar-01"><img   src="./bora-codar-01/_docs/capa.JPG" /></a></td>
         </tr>
         <tr>
             <td>02</td>
