@@ -1,7 +1,27 @@
-# Vue 3 + Vite
+# Desafio #1: MP3 Player
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Resolução do 1° desafio proposto pela **rocketseat**, durante a iniciativa **#boracodar** que aconteceu no mês de janeiro de 2023.
 
-## Recommended IDE Setup
+![Projeto Resolução](_docs/capa.jpg)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+---
+
+## O Desafio
+
+O Desafio consiste em reproduzir o layout do projeto, e através de uma gif uma ``.gif`` realizar uma animação do produto se movimentando.
+
+## O Desafio
+
+O Desafio consiste em reproduzir o layout do projeto, e através de uma gif uma ``.gif`` realizar uma animação do produto se movimentando.
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido visando aprender Vue 3.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/ZDEDUfRx9SzJ3MQmP0VBEn/%23boraCodar---Desafio-2-(Community)?node-id=1-133&t=jnO4LKCPo4wDDZG9-0). É necessário ter conta no Figma para acessá-lo.
+
+---
+
+Feito com ❤️ por [Gustavo Sorati](https://github.com/gustavo-sorati). 
