@@ -2,7 +2,7 @@
 
 Resolução do 1° desafio proposto pela **rocketseat**, durante a iniciativa **#boracodar** que aconteceu no mês de janeiro de 2023.
 
-![Projeto Resolução](_docs/capa.jpg)
+![Projeto Resolução](_docs/capa.JPG)
 
 ---
 
