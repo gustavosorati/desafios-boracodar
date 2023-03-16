@@ -1,7 +1,23 @@
-# Vue 3 + Vite
+# Desafio #3: Botões e Cursores
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+Resolução do 3° desafio proposto pela **rocketseat**, durante a iniciativa **#boracodar** que aconteceu no mês de janeiro de 2023.
 
-## Recommended IDE Setup
+![Projeto Resolução](_docs/capa.jpg)
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
+---
+
+## O Desafio
+
+O Desafio consiste em reproduzir o layout do projeto, exibindo diferentes tipos de botões que correspondem a diferentes ações.
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido inteiramene com Vue 3.
+
+## 🔖 Layout
+
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/9v0L1ci4PQuwrsxhw8J2lQ/%23boraCodar---Desafio-3-(Community)?node-id=0-1&t=RMNllO8ZfBNHI4dV-0). É necessário ter conta no Figma para acessá-lo.
+
+---
+
+Feito com ❤️ por [Gustavo Sorati](https://github.com/gustavo-sorati). 
