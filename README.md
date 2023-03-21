@@ -63,6 +63,7 @@
         <tr>
             <td>03</td>
             <td><a href="https://github.com/gustavosorati/rocketseat-boracodar/tree/main/bora-codar-03">Botões e cursores</a></td>
+            <td>⭐⭐⭐</td>
             <td align="center">
             <a href="https://github.com/gustavosorati/rocketseat-boracodar/tree/main/bora-codar-03"><img  width="300px" src="./bora-codar-03/_docs/capa.JPG" /></a></td>
         </tr>
