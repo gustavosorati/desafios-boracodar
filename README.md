@@ -52,7 +52,7 @@
             <td><a href="01">Music Player </a></td>
             <td>⭐⭐⭐⭐⭐</td>
             <td align="center">
-            <a href="bora-codar-01"><img width="300px" src="bora-codar-01/_docs/capa.JPG" /></a></td>
+            <a href="https://github.com/gustavosorati/rocketseat-boracodar/tree/main/bora-codar-01"><img   width="300px" src="./bora-codar-01/_docs/capa.JPG"  /></a></td>
         </tr>
         <tr>
             <td>02</td>
@@ -62,9 +62,9 @@
         </tr>
         <tr>
             <td>03</td>
-            <td><a href="03">Botões e Cursores</a></td>
-            <td>⭐⭐⭐</td>
-            <td align="center"><a href="bora-codar-03"><img width="300px" src="bora-codar-03/_docs/capa.JPG" /></a></td>
+            <td><a href="https://github.com/gustavosorati/rocketseat-boracodar/tree/main/bora-codar-03">Botões e cursores</a></td>
+            <td align="center">
+            <a href="https://github.com/gustavosorati/rocketseat-boracodar/tree/main/bora-codar-03"><img  width="300px" src="./bora-codar-03/_docs/capa.JPG" /></a></td>
         </tr>
     </tbody>
 </table>
