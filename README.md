@@ -32,7 +32,7 @@
                 <img width="140" height="1">
                 <p align="left"> 
                     <small>
-                    APRENDIZADO
+                    DIFICULDADE
                     </small>
                 </p>
             </th>
